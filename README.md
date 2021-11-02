@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hola!
+
+Aquesta és la primera prova utilitzant Git.
